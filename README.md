@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hellow there !
+
+I'm Mathieu AKA Merven.
+I'm a doing-his-job random goy by day, and a Code / Graphic Design enthusiast by night !
+I hope some of my chaos-driven absolutely-not-optimized code can inspire you. Or make you laugh. Or ... Both ?
 
 <!--
 **mervenslab/mervenslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
