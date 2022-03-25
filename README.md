@@ -1,7 +1,7 @@
 ### Hellow there !
 
 I'm Mathieu AKA Merven. </br>
-I'm a doing-his-job random goy by day, and a Code / Graphic Design enthusiast by night !</br>
+I'm a doing-his-job random guy by day, and a Code / Graphic Design enthusiast by night !</br>
 I hope some of my chaos-driven absolutely-not-optimized code can inspire you. Or make you laugh. Or ... Both ?
 
 <!--
